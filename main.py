@@ -1,2 +1,1 @@
-# Python-Lectures.
-chutiaag
+print("Hello, World!")
