@@ -68,3 +68,16 @@ while True:
         break
 
 
+# TASK:
+"""
+1  - make the shop capable of handling multiple purchases until the user decides to exit.
+2  - after each purchase, ask the user if they want to make another purchase or exit
+    the shop.
+3 - if they choose to continue, repeat the product selection and purchase process.
+4 - if they choose to exit, display a thank you message and end the program.
+5 - there should be two modes , sell and purcahse.
+user can select the mode at the start of the program.
+useable methods: append(), index(), split(), join()
+
+"""
+
